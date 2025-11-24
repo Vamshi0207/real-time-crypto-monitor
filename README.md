@@ -25,7 +25,7 @@ Unlike static datasets, this system builds its own historical database by fetchi
 ## 🚀 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/crypto-market-monitor.git](https://github.com/yourusername/crypto-market-monitor.git)
+    git clone [https://github.com/Vamshi0207/crypto-market-monitor.git](https://github.com/Vamshi0207/crypto-market-monitor.git)
     ```
 2.  **Install dependencies:**
     ```bash
