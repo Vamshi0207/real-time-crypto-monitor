@@ -1,0 +1,3 @@
+requests
+pandas
+db-sqlite3
